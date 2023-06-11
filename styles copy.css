@@ -30,7 +30,7 @@ header>div {
   height: 200px;
   border-radius: 50%;
   border: 10px solid rgb(26, 144, 172);
-  background-image: url(/Users/matheuspanobianco/Documents/SantanderCoders/FRONTEND/Projeto2/imagens/perfil.jpeg);
+  background-image: url(imagens/perfil.jpeg);
   background-size: cover;
   background-position: center;
   position: relative;
